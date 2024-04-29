@@ -1,3 +1,4 @@
 body{
-    background: url('background.jpg');
+    background: url('back.webp');
+    background-repeat: no-repeat;
 }
