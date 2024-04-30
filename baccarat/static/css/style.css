@@ -2,3 +2,7 @@ body{
     background: url('back.webp');
     background-repeat: no-repeat;
 }
+
+.card{
+    background:url('card.png');
+}
